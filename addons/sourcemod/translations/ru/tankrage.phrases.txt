@@ -1,0 +1,13 @@
+"Phrases"
+{
+    "TAG"
+    {
+        "ru"        "<{green}Tank Rage{default}> "
+    }
+
+    "SURVIVORS_RUN_BACK"
+    {
+        "#format"   "{1:.1f},{2:.1f}"
+        "ru"        "За каждые {olive}{1}%%{default} отступления выживших, контроль танка будет заморожен на {olive}{2}{default} сек"
+    }
+}
