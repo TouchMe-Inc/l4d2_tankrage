@@ -1,0 +1,13 @@
+"Phrases"
+{
+    "TAG"
+    {
+        "en"        "<{green}Tank Rage{default}> "
+    }
+
+    "SURVIVORS_RUN_BACK"
+    {
+        "#format"   "{1:.1f},{2:.1f}"
+        "en"        "For every {olive}{1}%%{default} survivors run back, the tank will have their frustration frozen for {olive}{2}{default} sec"
+    }
+}
